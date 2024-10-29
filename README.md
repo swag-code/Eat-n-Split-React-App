@@ -1,6 +1,9 @@
+Eat n Split is a user-friendly web application designed to simplify the process of splitting bills among friends or group members after dining out. With this app, users can easily input the total bill amount, add the number of people sharing the bill, and calculate each person's share effortlessly. Additionally, users can customize their entries by including tips and discounts. Built with React, the application features an intuitive interface that enhances the user experience, making it a perfect companion for any dining occasion. Say goodbye to the hassle of calculating shared expenses with Eat n Split!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To install all the packages that are necessary for this application, open new terminal, type "npm install" or "npm i", and hit Enter.
 
 ## Available Scripts
 
